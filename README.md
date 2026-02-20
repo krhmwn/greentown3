@@ -4,6 +4,7 @@
 
 
 Berikut ini laporan keuangan Cluster Greentown 3, silahkan akses tautan dibawah untuk melihat laporannya.
+
 Untuk laporan tahun yang sedang berlangsung akan di perbaharui secara berkala.
 
 
@@ -17,8 +18,9 @@ Untuk laporan tahun yang sedang berlangsung akan di perbaharui secara berkala.
 
 
 
-***Apabila ada kesalahan penulisan atau ketidaksesuaian mohon untuk dilaporkan ke bendahara,
-terima kasih.***
+***Apabila ada kesalahan penulisan atau ketidaksesuaian mohon untuk dilaporkan ke bendahara.***
+
+Terima Kasih.
 
 
 
