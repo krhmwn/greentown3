@@ -1,4 +1,4 @@
-
+<div align="center">
 
 
 
@@ -33,7 +33,8 @@ Terima Kasih.
 
 ---
 
-2016-2026 © [Ook Rahmawan]()
+2016-2026 © [Ook Rahmawan](https://saweria.co/ookrah)
 
 
 
+</div>
