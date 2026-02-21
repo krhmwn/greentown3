@@ -35,3 +35,7 @@ Terima Kasih.
 <br>
 <br>
 <br>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&label=Statistik)
+
+
