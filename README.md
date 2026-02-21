@@ -1,16 +1,17 @@
-<div align="center">
+
+<br>
+<br>
+<br>
+
+## <center>Laporan Keuangan Cluster Greentown 3</center>
 
 
 
 
-## Laporan Keuangan Cluster Greentown 3
 
+<center>Berikut ini laporan keuangan Cluster Greentown 3, silahkan akses tautan dibawah untuk melihat laporannya.
 
-
-
-Berikut ini laporan keuangan Cluster Greentown 3, silahkan akses tautan dibawah untuk melihat laporannya.
-
-Untuk laporan tahun yang sedang berlangsung akan di perbaharui secara berkala.
+Untuk laporan tahun yang sedang berlangsung akan di perbaharui secara berkala.</center>
 
 
 
@@ -23,9 +24,9 @@ Untuk laporan tahun yang sedang berlangsung akan di perbaharui secara berkala.
 
 
 
-***Apabila ada kesalahan penulisan atau ketidaksesuaian mohon untuk dilaporkan ke bendahara.***
+***<center>Apabila ada kesalahan penulisan atau ketidaksesuaian mohon untuk dilaporkan ke bendahara.</center>***
 
-Terima Kasih.
+<center>Terima Kasih.</center>
 
 
 
@@ -33,8 +34,9 @@ Terima Kasih.
 
 ---
 
-2016-2026 © [Ook Rahmawan](https://saweria.co/ookrah)
+<center>2016-2026 © [Ook Rahmawan](https://saweria.co/ookrah)</center>
 
 
-
-</div>
+<br>
+<br>
+<br>
