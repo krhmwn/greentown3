@@ -3,7 +3,7 @@
 <br>
 <br>
 
-## Laporan Keuangan Cluster Greentown 3 {octicons/issueClosed}
+## Laporan Keuangan Cluster Greentown 3 ✅
 
 <br>
 
